@@ -23,7 +23,6 @@ a.    Dataset required to provide
 
 b.    Metadata
 
-Findings & insights from this Project:
 
 
 

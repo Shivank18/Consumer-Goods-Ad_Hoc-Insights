@@ -13,8 +13,18 @@ Imagine yourself as the applicant for this role and perform the following task
 1.    Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the business needs insights.
 2.    You need to run a SQL query to answer these requests.
 
+Learnings from Projec:
+
+SQL syntaxes.  I learned about the CTEs, window functions,joins,subqueries and different ways to analytically check the results we have queried.
+
 Other resources Provided:
 
 a.    Dataset required to provide 
 
 b.    Metadata
+
+Findings & insights from this Project:
+
+
+
+
